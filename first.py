@@ -18,7 +18,7 @@ import pandas as pd
 import numpy as np
 
 files = glob.glob("file path")
-
+files.head(1)
 s = 0
 
 for fn in files:
