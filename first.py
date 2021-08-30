@@ -23,11 +23,14 @@ import pandas as pd
 import numpy as np
 
 files = glob.glob("file path")
-<<<<<<< HEAD
+
 files.head(1)
-=======
 print(files)
+<<<<<<< HEAD
 >>>>>>> ea38030 (Update first.py)
+=======
+
+>>>>>>> e611be3 (fixed  first.py)
 s = 0
 
 for fn in files:
